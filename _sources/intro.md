@@ -1,11 +1,16 @@
-# Welcome to your Jupyter Book
+# Data Science for The (Brave and) Self-Taught
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Data Science is such a wide area that it's hard for beginners to figure out where to start. As a self-taught data scientist, I also did struggle the same.
 
-Check out the content pages bundled with this sample book to see more.
+**What you can get after reading this book are**
+* What to learn step-by-step to become a data scientist or analyst
+* What data science jobs there are on the market, and choose which to pursue
+* How to land your first job
 
-```{tableofcontents}
-```
+**What you won't get after reading this book are**
+* What to learn to become a data engineer (*I haven't worked as data engineer, so I cannot help you with that*)
+* All the knowledges needed for data scientist or analyst (*But I can indicate you good resources*)
+
+# Acknowledgement
+
+# Contribute
