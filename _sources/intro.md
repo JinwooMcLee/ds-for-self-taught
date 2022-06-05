@@ -1,4 +1,4 @@
-# Data Science for The (Brave and) Self-Taught
+# Data Science for The (Lionhearted and) Self-Taught
 
 Data Science is such a wide area that it's hard for beginners to figure out where to start. As a self-taught data scientist, I also did struggle the same. I hope this book can help you not struggle as much as I did.
 
