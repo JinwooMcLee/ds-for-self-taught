@@ -11,6 +11,9 @@ Data Science is such a wide area that it's hard for beginners to figure out wher
 * What to learn to become a data engineer (*I haven't worked as data engineer, so I cannot help you with that*)
 * All the knowledges needed for data scientist or analyst (*But I can indicate you good resources*)
 
+# Prerequisites
+Being able to read middle school level math equations. I tried not to write equations and codes as much as I can, but unfortunately I couldn't avoid to write some math equations at all.
+
 # Acknowledgement
 
 # Contribute
