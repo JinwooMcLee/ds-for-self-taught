@@ -181,6 +181,24 @@ const thebe_selector_output = ".output, .cell_output"
         <!-- Table of contents -->
         <div class="d-none d-md-block col-md-2 bd-toc show noprint">
             
+            <div class="tocsection onthispage pt-5 pb-3">
+                <i class="fas fa-list"></i> Contents
+            </div>
+            <nav id="bd-toc-nav" aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+ <li class="toc-h1 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#">
+   Stuffs to tell
+  </a>
+ </li>
+ <li class="toc-h1 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#to-build-and-export-to-site">
+   To build and export to site
+  </a>
+ </li>
+</ul>
+
+            </nav>
         </div>
     </div>
 </div>
@@ -193,6 +211,24 @@ const thebe_selector_output = ".output, .cell_output"
                 <div id="print-main-content">
                     <div id="jb-print-toc">
                         
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h1 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#">
+   Stuffs to tell
+  </a>
+ </li>
+ <li class="toc-h1 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#to-build-and-export-to-site">
+   To build and export to site
+  </a>
+ </li>
+</ul>
+
+                        </nav>
                     </div>
                 </div>
             </div>
@@ -206,6 +242,11 @@ const thebe_selector_output = ".output, .cell_output"
 <p>Causal inference (Decision scientist)</p>
 <p>Interpretable machine learning</p>
 <p>RL, OR</p>
+</section>
+<section class="tex2jax_ignore mathjax_ignore" id="to-build-and-export-to-site">
+<h1>To build and export to site<a class="headerlink" href="#to-build-and-export-to-site" title="Permalink to this headline">¶</a></h1>
+<p>jb build ../ds-for-self-taught/
+ghp-import -n -p -f _build/html</p>
 </section>
 
     <script type="text/x-thebe-config">
