@@ -10,6 +10,14 @@ Interpretable machine learning
 
 RL, OR
 
+survey paper
+paperswithcode
+
+Job posting
+
+Automatic feature extraction
+Temporal, spatial correlation
+
 # To build and export to site
 jb build ../ds-for-self-taught/
 ghp-import -n -p -f _build/html
